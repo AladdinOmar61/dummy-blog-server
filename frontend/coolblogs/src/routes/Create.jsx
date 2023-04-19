@@ -11,7 +11,6 @@ import {
   Input,
   useToast,
 } from '@chakra-ui/react';
-import { Link } from 'react-router-dom';
 import useGlobalReducer from '../utils/useGlobalReducer';
 
 function Create() {
